@@ -8,7 +8,7 @@ trigger:
 
 pool:
   agent : Default
-  vmImage: NodejsVM123
+  vmImage: sampleNodeTest
 
 steps:
 - task: NodeTool@0
